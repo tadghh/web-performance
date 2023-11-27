@@ -1,4 +1,4 @@
-# Performance Optimization Strategy in 2023
+# Performance Optimization Strategy in 2023 - [Source](https://paper.dropbox.com/doc/Performance-Optimization-Strategy-in-2023-qWcr7orx2cEWHpLqoLeTC)
 Compiled by [Vitaly Friedman](https://www.smashingmagazine.com/). https://smashed.by/perf-strategy
 
 ## Get a big picture
